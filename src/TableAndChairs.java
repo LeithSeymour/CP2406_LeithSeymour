@@ -1,4 +1,4 @@
-package Prac1;
+
 
 public class TableAndChairs {
     public static void main(String[] args) {
@@ -10,6 +10,5 @@ public class TableAndChairs {
                 "X   X X         X X   X\n");
 
     }
-
 
 }
