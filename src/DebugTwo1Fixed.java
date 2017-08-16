@@ -1,4 +1,4 @@
-public class DebugTwo1
+public class DebugTwo1Fixed
 {
    public static void main(String[] args)
    {
