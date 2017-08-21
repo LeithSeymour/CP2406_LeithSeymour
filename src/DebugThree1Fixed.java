@@ -1,5 +1,5 @@
 // This class calculates a waitperson's tip as 15% of the bill
-public class DebugThree1
+public class DebugThree1Fixed
 {
    public static void main(String args[])
    {

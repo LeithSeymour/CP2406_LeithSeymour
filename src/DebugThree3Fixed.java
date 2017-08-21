@@ -1,7 +1,7 @@
 // This application gets a user's name and displays a greeting
 import java.util.Scanner;
 
-public class DebugThree3
+public class DebugThree3Fixed
 {
    public static void main(String args[])
    {

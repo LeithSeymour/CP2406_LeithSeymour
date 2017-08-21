@@ -10,6 +10,7 @@ public class Eggs {
         String Eggs_Desired = user_input.next();
         int Amount_of_Singles = Integer.parseInt(Eggs_Desired) % 12;
         int Amount_of_Dozens = (Integer.parseInt(Eggs_Desired) - Amount_of_Singles) / 12;
+
         System.out.println("You ordered " + (Eggs_Desired) + " eggs, that's " +
                 + Amount_of_Dozens + " Dozens at $" + (Cost_Dozen_Eggs)
                 + " and " + Amount_of_Singles + " loose egg/s at $" + (Cost_Single_Eggs) +
