@@ -1,4 +1,4 @@
-//// Program displays some facts about a string
+// Program displays some facts about a string
 //public class DebugSeven3
 //{
 //   public static void main(String[] args)
