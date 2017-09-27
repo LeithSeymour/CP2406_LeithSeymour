@@ -1,8 +1,8 @@
-// Program prompts user to enter a series of integers
+package Prac5;// Program prompts user to enter a series of integers
 // separated by spaces
 // Program converts them to numbers and sums them
 import java.util.*;
-public class DebugSeven2
+public class DebugSeven2Fixed
 {
     public static void main(String[] args)
     {

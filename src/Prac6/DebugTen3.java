@@ -1,4 +1,4 @@
-package Week7;// A PhoneBook is a Book with a city
+package Prac6;// A PhoneBook is a Book with a city
 import javax.swing.*;
 
 public class DebugTen3

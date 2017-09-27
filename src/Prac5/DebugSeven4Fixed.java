@@ -1,7 +1,9 @@
-// Converts a string to lowercase, and 
+package Prac5;
+
+// Converts a string to lowercase, and
 // displays the string's length
 // as well as a count of letters
-public class DebugSeven4 {
+public class DebugSeven4Fixed {
     public static void main(String[] args) {
         String aString = "HELP!! I need to get 37 things DONE today!!";
         int numLetters = 0;

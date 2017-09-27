@@ -1,4 +1,4 @@
-package Week7;
+package Prac6;
 
 public class RaceHorse extends Horse {
     int competedRaces;

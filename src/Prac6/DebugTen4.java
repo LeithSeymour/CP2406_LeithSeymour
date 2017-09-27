@@ -1,4 +1,4 @@
-package Week7;
+package Prac6;
 
 // A customer's purchase is approved if the
 // purchase does not exceed the credit limit

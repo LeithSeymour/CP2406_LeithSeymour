@@ -1,5 +1,7 @@
+package Prac5;
+
 // Program displays some facts about a string
-public class DebugSeven3
+public class DebugSeven3Fixed
 {
    public static void main(String[] args)
    {

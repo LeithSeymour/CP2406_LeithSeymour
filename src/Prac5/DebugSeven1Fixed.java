@@ -1,5 +1,7 @@
+package Prac5;
+
 // Makes String comparisons
-public class DebugSeven1
+public class DebugSeven1Fixed
 {
    public static void main(String[] args)
    {

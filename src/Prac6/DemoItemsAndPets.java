@@ -1,4 +1,4 @@
-package Week7;
+package Prac6;
 
 public class DemoItemsAndPets {
     public static void main(String[] args) {

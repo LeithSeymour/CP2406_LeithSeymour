@@ -1,4 +1,4 @@
-package Week7;
+package Prac6;
 
 // A Vacation is 10 days
 // but an ExtendedVacation is 30 days

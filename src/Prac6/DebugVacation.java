@@ -1,4 +1,4 @@
-package Week7;
+package Prac6;
 
 class DebugVacation
 {  int days;
